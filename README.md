@@ -5,8 +5,6 @@
 
 - 📫 How to reach me: **umeshsrisatya@gmail.com**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/iam_satya223/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/umesh-penkey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umeshsrisatya@gmail.com) 
 
 # 💻 Tech Stack:
 
@@ -19,5 +17,5 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umeshsrisatya&" alt="umeshsrisatya" /></p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/iam_satya223/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/umesh-penkey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umeshsrisatya@gmail.com) 
