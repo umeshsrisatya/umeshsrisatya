@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satya Prasad</h1>
-<h3 align="center">A passionate Student and Web Developer from India</h3>
-
--   🌱 I’m currently learning **C++ for DSA, MERN for Development**
-
--   📫 How to reach me: **umeshsrisatya@gmail.com**
+# Hello World!, I'm Umesh, a Indian Web Developer 👋🏼:
 
 # 💻 Tech Stack:
 
