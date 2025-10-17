@@ -1,4 +1,4 @@
-# Hello World!, I'm Umesh, a Future Indian Web Developer 👋🏼:
+# Hello World!, I'm Umesh, a Mern Developer 👋🏼:
 
 # 💻 Tech Stack:
 
