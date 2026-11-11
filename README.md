@@ -1,4 +1,10 @@
-# Hello World!, I'm Umesh, a Mern Developer 👋🏼:
+# Hi, I'm Umesh! 👋
+
+I'm a C++ enthusiast, aspiring competitive programmer, and passionate web developer. I enjoy solving complex problems, learning new technologies, and building web applications.
+
+- 💻 Currently improving my problem-solving and competitive programming skills.
+- 🌐 Interested in full-stack web development.
+- 🚀 Always eager to learn, build, and explore new technologies.
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
