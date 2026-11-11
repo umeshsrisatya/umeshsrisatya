@@ -5,6 +5,19 @@ I'm a C++ enthusiast, aspiring competitive programmer, and passionate web develo
 - 💻 Currently improving my problem-solving and competitive programming skills.
 - 🌐 Interested in full-stack web development.
 - 🚀 Always eager to learn, build, and explore new technologies.
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://codeforces.com/profile/Chanti223" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://leetcode.com/u/Umesh_Optimise/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.linkedin.com/in/umesh-penkey/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
